@@ -1,3 +1,4 @@
 "Hello, Git!" 
 "A new line" 
+"This is a change in the feature-divergent branch." 
 "This is a change in the main branch." 
